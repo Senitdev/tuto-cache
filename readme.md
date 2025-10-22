@@ -36,7 +36,7 @@ Ce projet est un travail pratique (TP) réalisé en Go (Golang).
 L’objectif est d’implémenter un système de mise en cache performant en utilisant la bibliothèque gocache
 .
 
-🚀 Objectifs du TP
+🚀 Objectifs du TP 2
 
 Découvrir la gestion du cache en Go
 
